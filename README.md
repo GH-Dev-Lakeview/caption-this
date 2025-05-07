@@ -2,6 +2,7 @@
 
 - Class Date: May 7-8, 2025
 - Facilitator: @GerardoRamosCol
+- Developer: moshecohen2002
 
 ## Class Resources
 
