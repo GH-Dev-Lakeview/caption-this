@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers - MODIFIED FROM FEATURE/MANUFACTURING-1
 
 - Class Date: May 7-8, 2025
 - Facilitator: @GerardoRamosCol
