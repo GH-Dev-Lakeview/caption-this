@@ -1,5 +1,8 @@
 # GitHub for Developers - MODIFIED FROM FEATURE/MANUFACTURING-1
 
+
+adding more code from finance
+
 - Class Date: May 7-8, 2025
 - Facilitator: @GerardoRamosCol
 
